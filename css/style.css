@@ -1,0 +1,27 @@
+/*1st page*/
+.box{
+  min-height: 100px;
+}
+.red{
+  background-color: red;
+}
+.green{
+  background-color: green;
+}
+.blue{
+  background-color: blue;
+}
+/*parallax*/
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+/*slick-slider*/
+.box{
+  padding: 5px 5px;
+  height: 180 px;
+}
+.box img{
+  width: 100%;
+}
+/*1st page*/
